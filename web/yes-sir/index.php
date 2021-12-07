@@ -1,5 +1,5 @@
 <?php
-#highlight_file(__FILE__);
+highlight_file(__FILE__);
 class Myfile  
 {	
     public function __wakeup()
